@@ -2,3 +2,4 @@
 target/
 bin/
 *.class
+src/main/resources/firebase/techshop-56a26-firebase-adminsdk-fbsvc-a2e2daef66.json
